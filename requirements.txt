@@ -1,0 +1,5 @@
+anthropic
+opencv-python
+numpy
+pillow
+requests
